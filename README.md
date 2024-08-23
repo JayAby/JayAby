@@ -16,5 +16,5 @@ I'm currently looking forward to expanding my knowledge in:
 - Email: [joelabiola04@gmail.com](mailto:joelabiola04@gmail.com)
 
 ### **🎉 Fun Facts/Hobbies**
-- **Hobbies:** I enjoy learning new things, especially in technology, and socializing with people from different backgrounds. Whether it's through coding or conversations, I love exploring new ideas and perspectives.
+- **Hobbies:** I enjoy learning new things, especially random things, and socializing with people from different backgrounds. Whether it's through coding or conversations, I love exploring new ideas and perspectives.
 
