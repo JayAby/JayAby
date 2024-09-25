@@ -10,6 +10,7 @@ I'm currently looking forward to expanding my knowledge in:
 - Ruby
 - Networking
 - C++
+- C#
 - Data analysis
 
 ### **📫 Contact Information**
