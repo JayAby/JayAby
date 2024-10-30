@@ -2,7 +2,7 @@
 Hi, I'm Joel, a Computer Science student passionate about technology and its endless possibilities. I'm currently focused on enhancing my skills in programming and web development, with a strong interest in creating innovative and efficient solutions.
 
 ### **🛠 Skills and Technologies**
-- **Languages:** Java, Python, C, HTML, CSS, JavaScript
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript, C#
 - **Tools & Frameworks:** Git
   
 ### **📚 Learning Goals**
@@ -10,7 +10,6 @@ I'm currently looking forward to expanding my knowledge in:
 - Ruby
 - Networking
 - C++
-- C#
 - Data analysis
 
 ### **📫 Contact Information**
