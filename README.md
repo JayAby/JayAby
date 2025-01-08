@@ -3,7 +3,7 @@ Hi, I'm Joel, a Computer Science student passionate about technology and its end
 
 ### **🛠 Skills and Technologies**
 - **Languages:** Java, Python, C, HTML, CSS, JavaScript, C#
-- **Tools & Frameworks:** Git
+- **Tools & Frameworks:** Git, .NET
   
 ### **📚 Learning Goals**
 I'm currently looking forward to expanding my knowledge in:
